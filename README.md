@@ -1,2 +1,2 @@
 # SpaceEnginePlanets
-Planets made using textures from Space Engine
+Planets made using textures extracted from [Space Engine](http://spaceengine.org)
